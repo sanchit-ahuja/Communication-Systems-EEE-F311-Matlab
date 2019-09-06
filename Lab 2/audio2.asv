@@ -1,0 +1,3 @@
+filenam
+x = audioread('nice-work.wav');
+[y,Fs] = audioread(filename);
